@@ -1,0 +1,1 @@
+java -cp .\Db\mc.jar; ServerMain.java
